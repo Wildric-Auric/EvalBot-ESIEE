@@ -3,6 +3,14 @@ This project uses ARMv7 on Cortex-M3 processor of the [Stellaris LM3S9B92 EVALBO
 ## Demo Videos
 
 
+
+https://user-images.githubusercontent.com/70033490/198839580-2088f7d3-182c-4a9b-bd13-4e33d3cb3dd5.mp4
+
+
+
+https://user-images.githubusercontent.com/70033490/198839608-03786e71-c32b-42da-ab91-25e70026f52e.mp4
+
+
 ## Report translated to english
 There is Scratch for educational purposes to introduce algorithms to children. <br> 
 Typical problems made with Scratch consist in implementing an algorithm with basic commands such as going straight, turning right, turning left, among others, 
